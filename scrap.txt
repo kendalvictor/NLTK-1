@@ -1,0 +1,57 @@
+<head>
+<title>The Washington Post: National, World &amp; D.C. Area News and Headlines - The Washington Post</title>
+<meta name="eomportal-instanceid" content="12"/>
+<meta name="eomportal-id" content="931"/>
+<meta name="eomportal-loid" content="1000.2.3301852019"/>
+<meta name="eomportal-uuid" content="4bb9ac82-0bbf-11e1-99ec-2ea565c4bf76"/>
+<meta name="eomportal-lastUpdate" content="Tue Jul 14 20:23:31 EDT 2015"/>
+<meta name="site-identity" content="prodportal-A"/>
+<meta name="keywords" content=""/>
+<meta name="news_keywords" content=""/>
+<meta name="description" content=""/>
+<meta name="DC.date.issued" content="2015-07-03"/>
+<meta name="Content-Language" content="en-US"/>
+<meta name="resource-type" content="document"/>
+<style>
+
+#post_most.module {
+	border-bottom:0px;
+}
+#post_most.module.component {
+	margin-bottom:10px;
+}
+#post_most .right-rail-shadow {
+	display:none;
+}
+#post_most ul {
+	padding-top:10px;
+}
+#post_most ul li {
+	padding-bottom:5px;
+	border-bottom:1px dotted #D2D2D2;
+	margin-bottom:5px;
+}
+#post_most ul li.last {
+	padding-bottom:0px;
+	border-bottom:0px;
+	margin-bottom:10px;
+}
+#post_most ul li .number {
+	width:0.7em;
+	padding:5px 20px 8px 5px;
+	font-size:46px;
+	font-family:FranklinITCProBold,Helvetica,Arial,sans-serif;color:#7F7F7F;
+}
+#post_most ul li img.photo {
+	padding-left:10px;
+}
+#post_most ul li .headline {
+	font-size:14px;
+	line-height:19px;
+}
+#post_most ul li .headline.no-photo {
+	margin-right:40px;
+}
+
+</style>
+<script type="text/javascript">
